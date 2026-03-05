@@ -1,2 +1,2 @@
-# network-traffic-analysis-ml
-Network Traffic Analysis using Machine Learning with CICIDS2017 dataset
+Dataset used: CICIDS2017 dataset
+Source: Canadian Institute for Cybersecurity
